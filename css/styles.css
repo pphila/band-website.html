@@ -1,0 +1,25 @@
+body {
+   background-color: gray;
+}
+
+title {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.sidebar {
+  float: left;
+  width: 20%;
+  background-color: yellow;
+}
+
+.merch {
+  text-align: center;
+}
